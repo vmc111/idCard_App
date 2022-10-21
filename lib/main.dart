@@ -25,8 +25,10 @@ class _CardState extends State<Card> {
   String eMail_id = 'abc@gmail.com';
 
   /*
-
-  To Add Images from local folders.
+  Pending WorK :
+  1) Creating multiple pages to upload a Pic and Enter Details
+  2) Add Functionality to Buttons (Currectly to Next).
+  3) To Add Images from local folders.
   List<FileImage> imageStorage = <FileImage>[];
   List<AssetImage> imagepicker =  <AssetImage>[];
    */
