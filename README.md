@@ -1,4 +1,13 @@
-# id
+# id_Card_App
+
+ /*
+  Pending WorK :
+  1) Creating multiple pages to upload a Pic and Enter Details
+  2) Add Functionality to Buttons (Currectly to Next).
+  3) To Add Images from local folders.
+  List<FileImage> imageStorage = <FileImage>[];
+  List<AssetImage> imagepicker =  <AssetImage>[];
+   */
 
 A new Flutter project.
 
